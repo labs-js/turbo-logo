@@ -1,6 +1,6 @@
 {
   "name": "turbo-logo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple ASCII art logo maker for node.js",
   "main": "index.js",
   "scripts": {
