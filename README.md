@@ -32,6 +32,6 @@ node -e 'require("turbo-logo")("Hello World!")'
 
 ## What do I get?
 
-<img alt="Screenshot" src="/assets/screenshot.png"/>
+<img alt="Screenshot" src="assests/screenshot.png"/>
 
 
