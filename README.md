@@ -7,4 +7,21 @@
 
 # turbo-logo
 
-A simple ASCII art logo maker 
+A simple ASCII art logo maker for Node.js
+
+
+## How to Use
+
+
+```
+npm install turbo-log
+```
+and then:
+
+```javascript
+    var turboLogo = require('turbo-logo')();
+
+    console.log(turboLogo('Hello World!!'))
+```
+
+
