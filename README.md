@@ -9,19 +9,29 @@
 
 A simple ASCII art logo maker for Node.js
 
-
-## How to Use
-
+## Install
 
 ```
 npm install turbo-log
 ```
-and then:
+
+## How to Use
+
 
 ```javascript
     var turboLogo = require('turbo-logo')();
 
-    console.log(turboLogo('Hello World!!'))
+    turboLogo('Hello World!!')
 ```
+
+### One line terminal test:
+
+```
+node -e 'require("turbo-logo")("Hello World!")'
+```
+
+## What do I get?
+
+<img alt="Screenshot" src="/assets/screenshot.png"/>
 
 
