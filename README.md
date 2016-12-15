@@ -7,7 +7,7 @@
 
 # turbo-logo
 
-A simple ASCII art logo maker for Node.js
+A simple ASCII art logo maker for the Terminal
 
 ## Install
 
@@ -52,7 +52,7 @@ Avialables colors: `red`,`green`,`yellow`,`blue`,`white`,`magenta`, `cyan`, `gre
 Pff.. yeah
 
 ```bash
-node -e 'require("turbo-logo")("Hello World!", "red", "ghost")'
+node -e 'require("turbo-logo")("Hello World!", "green", "ghost")'
 ```
 <img alt="Screenshot3" src="assests/screenshot3.png"/>
 
