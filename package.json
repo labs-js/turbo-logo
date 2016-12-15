@@ -1,7 +1,7 @@
 {
   "name": "turbo-logo",
   "version": "0.1.0",
-  "description": "A simple ASCII art logo maker for node.js",
+  "description": "A simple ASCII art logo maker for the Terminal",
   "main": "index.js",
   "scripts": {
     "test": "nyc jasmine-node --verbose --captureExceptions test"
