@@ -19,7 +19,7 @@ npm install turbo-log
 
 
 ```javascript
-    var turboLogo = require('turbo-logo')();
+    var turboLogo = require('turbo-logo');
 
     turboLogo('Hello World!!')
 ```
@@ -33,5 +33,27 @@ node -e 'require("turbo-logo")("Hello World!")'
 ## What do I get?
 
 <img alt="Screenshot" src="assests/screenshot.png"/>
+
+## Can I canghe the colors?
+
+Of course..
+
+```
+node -e 'require("turbo-logo")("Hello World!", "red")'
+```
+
+<img alt="Screenshot2" src="assests/screenshot2.png"/>
+
+Avialables colors: `red`,`green`,`yellow`,`blue`,`white`,`magenta` & `cyan
+
+## Can I change the font?
+
+Pff.. yeah
+
+```bash
+node -e 'require("turbo-logo")("Hello World!", "red", "style")'
+```
+
+
 
 
