@@ -34,7 +34,7 @@ node -e 'require("turbo-logo")("Hello World!")'
 
 <img alt="Screenshot" src="assests/screenshot.png"/>
 
-## Can I canghe the colors?
+## Can I change the colors?
 
 Of course..
 
@@ -56,4 +56,4 @@ node -e 'require("turbo-logo")("Hello World!", "green", "ghost")'
 ```
 <img alt="Screenshot3" src="assests/screenshot3.png"/>
 
-
+## More is comming...
