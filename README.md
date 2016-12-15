@@ -26,7 +26,7 @@ npm install turbo-log
 
 ### One line terminal test:
 
-```
+```bash
 node -e 'require("turbo-logo")("Hello World!")'
 ```
 
@@ -38,22 +38,22 @@ node -e 'require("turbo-logo")("Hello World!")'
 
 Of course..
 
-```
+```bash
 node -e 'require("turbo-logo")("Hello World!", "red")'
 ```
 
 <img alt="Screenshot2" src="assests/screenshot2.png"/>
 
-Avialables colors: `red`,`green`,`yellow`,`blue`,`white`,`magenta` & `cyan
+Avialables colors: `red`,`green`,`yellow`,`blue`,`white`,`magenta`, `cyan`, `grey` , `gray` & `black`
+
 
 ## Can I change the font?
 
 Pff.. yeah
 
 ```bash
-node -e 'require("turbo-logo")("Hello World!", "red", "style")'
+node -e 'require("turbo-logo")("Hello World!", "red", "ghost")'
 ```
-
-
+<img alt="Screenshot3" src="assests/screenshot3.png"/>
 
 
