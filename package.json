@@ -1,6 +1,6 @@
 {
   "name": "turbo-logo",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple ASCII art logo maker for the Terminal",
   "main": "index.js",
   "scripts": {
