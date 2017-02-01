@@ -12,7 +12,7 @@ A simple ASCII art logo maker for the Terminal
 ## Install
 
 ```
-npm install turbo-log
+npm install turbo-logo
 ```
 
 ## How to Use
