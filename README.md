@@ -52,7 +52,7 @@ Avialables colors: `red`,`green`,`yellow`,`blue`,`white`,`magenta`, `cyan`, `gre
 Pff.. yeah
 
 ```bash
-node -e 'require("turbo-logo")("Hello World!", "green", "ghost")'
+node -e 'require("turbo-logo")("Hello World!", "red", { "font": "Ghost" })'
 ```
 <img alt="Screenshot3" src="assests/screenshot3.png"/>
 
