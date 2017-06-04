@@ -45,15 +45,20 @@ node -e 'require("turbo-logo")("Hello World!", "red")'
 <img alt="Screenshot2" src="assests/screenshot2.png"/>
 
 Avialables colors: `red`,`green`,`yellow`,`blue`,`white`,`magenta`, `cyan`, `grey` , `gray` & `black`
+>The colors are the supported by the library [colors](https://www.npmjs.com/package/colors)
 
 
 ## Can I change the font?
 
 Pff.. yeah
 
-```bash
-node -e 'require("turbo-logo")("Hello World!", "red", { "font": "Ghost" })'
-```
 <img alt="Screenshot3" src="assests/screenshot3.png"/>
 
+## What if I only want the string as result?
+
+well we can use the `dataOnly` parameter:
+
+```bash
+node -e 'require("turbo-logo")("Hello World!", "red", { "font": "Ghost", "dataOnly": true})'
+```
 ## More is comming...
